@@ -25,8 +25,8 @@ void Binaryconverter(int num)
 int main()
 {   
     int num;
-	printf("Enter a decimal number : ");
+    printf("Enter a decimal number : ");
     scanf("%d", &num);
-	Binaryconverter(num);
-	return 0;
+    Binaryconverter(num);
+    return 0;
 }
